@@ -7,6 +7,13 @@ Give us a chance to see your beautiful code! 🤩
 - Create a small application in React (or another agreed upon framework)
 - Describe your design decisions and setup instructions in the README.md of the forked repository
 
+## Description
+
+- Implement with standard HTML elements and fetch API
+- Some styling from boilerplate
+- Lazy load on scroll 
+- Dialog modal to ensure that users' action is intended
+
 ## The assignment
 You are tasked to build a simple application for a nursery to manage the attendance of children each day.
 
